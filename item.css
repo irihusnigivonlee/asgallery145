@@ -82,7 +82,7 @@
 
 .row {
   display: flex;
-  margin-top: 3.5rem;
+  margin-top: 3.8rem;
   justify-content: center; /* Untuk mengatur konten di tengah secara horizontal */
   width: 100%; /* Mengatur lebar container agar mengambil seluruh lebar layar */
 }
